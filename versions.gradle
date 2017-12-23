@@ -1,0 +1,14 @@
+ext {
+    kotlin_version = '1.2.0'
+    kotlinx_html_version = '0.6.8'
+    node_plugin_version = '1.2.0'
+    bintray_plugin_version = '1.8.0'
+    kotlinext_version = '1.0.0-pre.16'
+    mocha_version = '3.0.0-pre.16'
+    react_version = '16.2.0-pre.16'
+    react_dom_version = '16.2.0-pre.16'
+    node_version = '9.3.0'
+    history_version = '4.7.2'
+    react_router = '4.2.0'
+    react_router_dom = '4.2.2'
+}

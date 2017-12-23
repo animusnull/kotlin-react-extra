@@ -1,0 +1,29 @@
+{
+  "name": "kotlin-react-md-spinner",
+  "version": "0.2.5",
+  "description": "Kotlin wrapper for History library",
+  "files": [
+    "build",
+    "src",
+    "package.json",
+    "README.md"
+  ],
+  "main": "build/classes/main/kotlin-react-md-spinner.js",
+  "repository": "https://github.com/animusnull/kotlin-react-extra",
+  "peerDependencies": {
+    "kotlin": "^$kotlin_version",
+    "@jetbrains/kotlin-extensions": "^$kotlinext_version",
+    "react": ">=15.x.x <=16.x.x",
+    "@jetbrains/kotlin-react": "^16.2.0-pre.15",
+    "@jetbrains/kotlin-react-dom": "^16.2.0-pre.15",
+    "@types/react-router": "^4.0.19",
+    "kotlinx-html": "^0.6.8",
+    "kotlinx-html-js": "^0.6.4",
+    "react-dom": "^16.2.0"
+  },
+  "author": "Animus Null",
+  "publishConfig": {
+    "registry": "https://api.bintray.com/npm/animusnull/AnimusDesignNPM"
+  },
+  "license": "Apache-2-0"
+}

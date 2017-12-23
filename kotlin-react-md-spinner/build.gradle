@@ -1,0 +1,7 @@
+dependencies {
+    compile 'org.jetbrains:kotlin-extensions:1.0.0-pre.16-kotlin-1.2.0'
+    compile 'org.jetbrains:kotlin-react:16.2.0-pre.16-kotlin-1.2.0'
+    compile 'org.jetbrains:kotlin-react-dom:16.2.0-pre.16-kotlin-1.2.0'
+    compile "org.jetbrains.kotlinx:kotlinx-html-js:$kotlinx_html_version"
+}
+version = '1.0'
