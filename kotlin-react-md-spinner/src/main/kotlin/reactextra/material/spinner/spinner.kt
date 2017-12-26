@@ -20,4 +20,4 @@ external interface MDSPinnerProps : RProps {
     var userAgent: String
 }
 
-external val MDSpinner: RClass<MDSPinnerProps> = reactMDSpinner.MDSpinner
+val MDSpinner: RClass<MDSPinnerProps> = reactMDSpinner.MDSpinner
